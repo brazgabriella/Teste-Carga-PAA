@@ -1,0 +1,50 @@
+{
+  "Página inicial do PAA" : {
+    "transaction" : "Página inicial do PAA",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 98.155,
+    "medianResTime" : 92.0,
+    "minResTime" : 73.0,
+    "maxResTime" : 254.0,
+    "pct1ResTime" : 104.9,
+    "pct2ResTime" : 142.99999999999977,
+    "pct3ResTime" : 244.98000000000002,
+    "throughput" : 40.29820672980052,
+    "receivedKBytesPerSec" : 942.2460583316542,
+    "sentKBytesPerSec" : 15.072473806165625
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 98.155,
+    "medianResTime" : 92.0,
+    "minResTime" : 73.0,
+    "maxResTime" : 254.0,
+    "pct1ResTime" : 104.9,
+    "pct2ResTime" : 142.99999999999977,
+    "pct3ResTime" : 244.98000000000002,
+    "throughput" : 40.29820672980052,
+    "receivedKBytesPerSec" : 942.2460583316542,
+    "sentKBytesPerSec" : 15.072473806165625
+  },
+  "Teste de Estresse" : {
+    "transaction" : "Teste de Estresse",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 98.155,
+    "medianResTime" : 92.0,
+    "minResTime" : 73.0,
+    "maxResTime" : 254.0,
+    "pct1ResTime" : 104.9,
+    "pct2ResTime" : 142.99999999999977,
+    "pct3ResTime" : 244.98000000000002,
+    "throughput" : 39.478878799842086,
+    "receivedKBytesPerSec" : 923.0886670943546,
+    "sentKBytesPerSec" : 14.766025957362812
+  }
+}
