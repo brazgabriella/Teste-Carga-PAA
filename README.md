@@ -15,7 +15,7 @@ Este repositório contém os testes de performance realizados com o Apache JMete
 
 Avaliar a performance e estabilidade da aplicação Stratega sob diferentes cargas de usuários simultâneos, simulando:
 
-## Cenários de Teste
+## Cenários de Testes
 
 | Cenário                          |         |
 | -------------------------------- | --------------------------------------------- |
