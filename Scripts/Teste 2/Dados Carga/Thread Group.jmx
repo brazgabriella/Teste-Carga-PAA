@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jmeterTestPlan version="1.2" properties="5.0" jmeter="5.6.3">
   <hashTree>
-    <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Teste PAA">
-      <intProp name="ThreadGroup.num_threads">30</intProp>
+    <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group">
+      <intProp name="ThreadGroup.num_threads">50</intProp>
       <intProp name="ThreadGroup.ramp_time">60</intProp>
       <longProp name="ThreadGroup.duration">0</longProp>
       <longProp name="ThreadGroup.delay">0</longProp>
@@ -14,14 +14,15 @@
       </elementProp>
     </ThreadGroup>
     <hashTree>
-      <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Dashboard">
+      <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="PAA ">
         <boolProp name="TransactionController.includeTimers">false</boolProp>
       </TransactionController>
       <hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://paa.sit.sdlc-quattrus.com/">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://paa.sit.sdlc-quattrus.com/login">
           <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
           <stringProp name="HTTPSampler.port">0</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">login</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
@@ -36,25 +37,9 @@
           </ConstantTimer>
           <hashTree/>
         </hashTree>
-      </hashTree>
-      <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Novo PAA">
-        <boolProp name="TransactionController.includeTimers">false</boolProp>
-      </TransactionController>
-      <hashTree>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api-paa.sit.sdlc-quattrus.com/api/v1/Summary/paa">
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://paa.sit.sdlc-quattrus.com/">
           <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
-          <stringProp name="HTTPSampler.protocol">https</stringProp>
-          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-          <stringProp name="HTTPSampler.method">OPTIONS</stringProp>
-          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-          <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-            <collectionProp name="Arguments.arguments"/>
-          </elementProp>
-        </HTTPSamplerProxy>
-        <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api-paa.sit.sdlc-quattrus.com/api/v1/Summary/paa">
-          <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
+          <stringProp name="HTTPSampler.port">0</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
@@ -64,10 +49,17 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
         </HTTPSamplerProxy>
-        <hashTree/>
-        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api-paa.sit.sdlc-quattrus.com/api/v1/Summary/paa/stages">
+        <hashTree>
+          <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="true">
+            <stringProp name="ConstantTimer.delay">15574</stringProp>
+          </ConstantTimer>
+          <hashTree/>
+        </hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://paa.sit.sdlc-quattrus.com/1789">
           <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
+          <stringProp name="HTTPSampler.port">0</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
+          <stringProp name="HTTPSampler.path">1789</stringProp>
           <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
           <stringProp name="HTTPSampler.method">GET</stringProp>
           <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
@@ -76,36 +68,13 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
         </HTTPSamplerProxy>
-        <hashTree/>
+        <hashTree>
+          <ConstantTimer guiclass="ConstantTimerGui" testclass="ConstantTimer" testname="Constant Timer" enabled="true">
+            <stringProp name="ConstantTimer.delay">13147</stringProp>
+          </ConstantTimer>
+          <hashTree/>
+        </hashTree>
       </hashTree>
-      <TransactionController guiclass="TransactionControllerGui" testclass="TransactionController" testname="Projeto e PAA">
-        <boolProp name="TransactionController.includeTimers">false</boolProp>
-      </TransactionController>
-      <hashTree/>
-      <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api-paa.sit.sdlc-quattrus.com/api/v1/Summary/paa/projects ">
-        <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
-        <stringProp name="HTTPSampler.protocol">https</stringProp>
-        <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-        <stringProp name="HTTPSampler.method">GET</stringProp>
-        <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-        <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-        <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-          <collectionProp name="Arguments.arguments"/>
-        </elementProp>
-      </HTTPSamplerProxy>
-      <hashTree/>
-      <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="https://api-paa.sit.sdlc-quattrus.com/api/v1/Paa/newPaa">
-        <stringProp name="HTTPSampler.domain">${BASE_URL_1}</stringProp>
-        <stringProp name="HTTPSampler.protocol">https</stringProp>
-        <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
-        <stringProp name="HTTPSampler.method">OPTIONS</stringProp>
-        <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
-        <boolProp name="HTTPSampler.postBodyRaw">false</boolProp>
-        <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables">
-          <collectionProp name="Arguments.arguments"/>
-        </elementProp>
-      </HTTPSamplerProxy>
-      <hashTree/>
       <ResultCollector guiclass="StatVisualizer" testclass="ResultCollector" testname="Aggregate Report">
         <boolProp name="ResultCollector.error_logging">false</boolProp>
         <objProp>
@@ -140,7 +109,7 @@
             <connectTime>true</connectTime>
           </value>
         </objProp>
-        <stringProp name="filename">paa3107.csv</stringProp>
+        <stringProp name="filename"></stringProp>
       </ResultCollector>
       <hashTree/>
     </hashTree>
