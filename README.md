@@ -27,10 +27,9 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 ## Teste 02
 
 | Cenário                          |         |
-| -------------------------------- | --------------------------------------------- |
-| Teste de carga                   | `Carga Moderada - 50 Usuários`                |
-| Teste de estresse                | `Estresse - 100 Usuários Simultâneos`         |
-
+| -------------------------------- | ------------------------------------------------------------------ |
+| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 60 segundos (1 minuto) `            |
+| Teste de estresse                | `Estresse - 200 Usuários Simultâneos`; Ramp-up: 600 (10 minutos)   |
 ## Ferramentas utilizadas
 
 - [Apache JMeter](https://jmeter.apache.org/) v5.6.3
