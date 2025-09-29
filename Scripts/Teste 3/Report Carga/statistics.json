@@ -1,0 +1,50 @@
+{
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 639.4599999999998,
+    "medianResTime" : 625.0,
+    "minResTime" : 618.0,
+    "maxResTime" : 793.0,
+    "pct1ResTime" : 681.8,
+    "pct2ResTime" : 772.1999999999998,
+    "pct3ResTime" : 793.0,
+    "throughput" : 4.795703050067139,
+    "receivedKBytesPerSec" : 117.11359746666986,
+    "sentKBytesPerSec" : 2.3931682212737386
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 639.4599999999998,
+    "medianResTime" : 625.0,
+    "minResTime" : 618.0,
+    "maxResTime" : 793.0,
+    "pct1ResTime" : 681.8,
+    "pct2ResTime" : 772.1999999999998,
+    "pct3ResTime" : 793.0,
+    "throughput" : 4.796163069544364,
+    "receivedKBytesPerSec" : 117.12483138489208,
+    "sentKBytesPerSec" : 2.39339778177458
+  },
+  "https://paa.sit.sdlc-quattrus.com/login" : {
+    "transaction" : "https://paa.sit.sdlc-quattrus.com/login",
+    "sampleCount" : 50,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 639.4599999999998,
+    "medianResTime" : 625.0,
+    "minResTime" : 618.0,
+    "maxResTime" : 793.0,
+    "pct1ResTime" : 681.8,
+    "pct2ResTime" : 772.1999999999998,
+    "pct3ResTime" : 793.0,
+    "throughput" : 4.796163069544364,
+    "receivedKBytesPerSec" : 117.12483138489208,
+    "sentKBytesPerSec" : 2.39339778177458
+  }
+}

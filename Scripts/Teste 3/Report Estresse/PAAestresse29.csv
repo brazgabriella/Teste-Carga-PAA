@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1759171845965,632,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-1,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,630,0,309
+1759171845964,632,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-1,,true,,25006,511,7,7,null,630,2,309
+1759171846066,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-2,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,627,0,304
+1759171846065,627,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-2,,true,,25006,511,7,7,null,627,1,304
+1759171846166,636,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-3,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,635,0,302
+1759171846166,636,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-3,,true,,25006,511,7,7,null,635,0,302
+1759171846264,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-4,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,303
+1759171846263,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-4,,true,,25006,511,7,7,null,624,1,303
+1759171846364,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-5,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,472,0,303
+1759171846363,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-5,,true,,25014,511,7,7,null,472,2,303
+1759171846464,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-6,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,301
+1759171846464,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-6,,true,,25006,511,7,7,null,624,0,301
+1759171846565,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-7,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,303
+1759171846564,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-7,,true,,25006,511,7,7,null,623,2,303
+1759171846665,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-8,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,302
+1759171846664,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-8,,true,,25006,511,7,7,null,622,2,302
+1759171846764,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-9,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,302
+1759171846764,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-9,,true,,25006,511,7,7,null,621,0,302
+1759171846864,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-10,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,477,0,309
+1759171846864,627,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-10,,true,,25014,511,7,7,null,477,1,309
+1759171846964,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-11,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,625,0,302
+1759171846963,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-11,,true,,25006,511,7,7,null,625,2,302
+1759171847064,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-12,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,302
+1759171847063,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-12,,true,,25006,511,7,7,null,624,1,302
+1759171847164,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-13,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,625,0,303
+1759171847164,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-13,,true,,25006,511,7,7,null,625,0,303
+1759171847263,628,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-14,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,627,0,306
+1759171847262,628,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-14,,true,,25006,511,7,7,null,627,1,306
+1759171847363,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-15,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171847362,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-15,,true,,25006,511,7,7,null,620,2,302
+1759171847464,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-16,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,618,0,301
+1759171847464,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-16,,true,,25006,511,7,7,null,618,0,301
+1759171847564,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-17,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171847563,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-17,,true,,25006,511,7,7,null,620,2,302
+1759171847663,630,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-18,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,630,0,304
+1759171847662,630,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-18,,true,,25006,511,7,7,null,630,1,304
+1759171847763,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-19,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,304
+1759171847763,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-19,,true,,25006,511,7,7,null,622,0,304
+1759171847863,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-20,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,303
+1759171847862,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-20,,true,,25006,511,7,7,null,622,1,303
+1759171847965,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-21,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,474,0,305
+1759171847964,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-21,,true,,25014,511,7,7,null,474,2,305
+1759171848064,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-22,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,303
+1759171848064,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-22,,true,,25009,511,7,7,null,621,1,303
+1759171848165,845,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-23,text,true,,25009,511,9,9,https://paa.sit.sdlc-quattrus.com/login,696,0,302
+1759171848164,845,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-23,,true,,25009,511,9,9,null,696,2,302
+1759171848264,848,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-24,text,true,,25001,511,9,9,https://paa.sit.sdlc-quattrus.com/login,848,0,304
+1759171848263,848,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-24,,true,,25001,511,9,9,null,848,1,304
+1759171848364,758,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-25,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,758,0,306
+1759171848363,758,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-25,,true,,25006,511,8,8,null,758,1,306
+1759171848464,846,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-26,text,true,,25014,511,9,9,https://paa.sit.sdlc-quattrus.com/login,846,0,303
+1759171848463,846,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-26,,true,,25014,511,9,9,null,846,1,303
+1759171848563,851,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-27,text,true,,25006,511,9,9,https://paa.sit.sdlc-quattrus.com/login,851,0,304
+1759171848563,851,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-27,,true,,25006,511,9,9,null,851,1,304
+1759171848665,841,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-28,text,true,,25006,511,9,9,https://paa.sit.sdlc-quattrus.com/login,841,0,302
+1759171848664,841,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-28,,true,,25006,511,9,9,null,841,2,302
+1759171848765,750,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-29,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,750,0,302
+1759171848764,750,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-29,,true,,25006,511,8,8,null,750,2,302
+1759171848865,741,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-30,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,741,0,302
+1759171848864,741,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-30,,true,,25006,511,8,8,null,741,2,302
+1759171848963,660,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-31,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,660,0,306
+1759171848963,660,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-31,,true,,25006,511,7,7,null,660,1,306
+1759171849065,638,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-32,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,638,0,303
+1759171849064,638,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-32,,true,,25006,511,7,7,null,638,1,303
+1759171849164,639,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-33,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,638,0,303
+1759171849163,639,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-33,,true,,25006,511,7,7,null,638,1,303
+1759171849265,618,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-34,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,468,0,301
+1759171849264,618,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-34,,true,,25014,511,7,7,null,468,2,301
+1759171849365,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-35,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,302
+1759171849364,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-35,,true,,25001,511,7,7,null,619,2,302
+1759171849465,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-36,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,303
+1759171849464,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-36,,true,,25006,511,7,7,null,621,1,303
+1759171849565,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-37,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,303
+1759171849564,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-37,,true,,25006,511,7,7,null,620,1,303
+1759171849665,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-38,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,469,0,302
+1759171849664,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-38,,true,,25014,511,7,7,null,469,1,302
+1759171849763,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-39,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,304
+1759171849763,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-39,,true,,25014,511,7,7,null,622,1,304
+1759171849864,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-40,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,306
+1759171849864,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-40,,true,,25009,511,7,7,null,624,1,306
+1759171849965,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-41,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,300
+1759171849964,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-41,,true,,25009,511,7,7,null,621,2,300
+1759171850064,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-42,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171850064,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-42,,true,,25014,511,7,7,null,620,0,302
+1759171850164,640,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-43,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,639,0,319
+1759171850164,640,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-43,,true,,25006,511,7,7,null,639,0,319
+1759171850263,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-44,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,302
+1759171850262,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-44,,true,,25006,511,7,7,null,621,2,302
+1759171850364,618,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-45,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,618,0,301
+1759171850363,618,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-45,,true,,25006,511,7,7,null,618,2,301
+1759171850464,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-46,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,469,0,302
+1759171850463,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-46,,true,,25014,511,7,7,null,469,1,302
+1759171850563,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-47,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,302
+1759171850562,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-47,,true,,25006,511,7,7,null,621,1,302
+1759171850663,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-48,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,470,0,303
+1759171850662,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-48,,true,,25014,511,7,7,null,470,2,303
+1759171850764,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-49,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,469,0,302
+1759171850764,627,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-49,,true,,25014,511,7,7,null,469,1,302
+1759171850865,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-50,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,301
+1759171850864,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-50,,true,,25009,511,7,7,null,620,1,301
+1759171850963,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-51,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171850962,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-51,,true,,25006,511,7,7,null,620,2,302
+1759171851063,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-52,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,471,0,302
+1759171851063,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-52,,true,,25014,511,7,7,null,471,1,302
+1759171851164,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-53,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,303
+1759171851164,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-53,,true,,25006,511,7,7,null,621,0,303
+1759171851264,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-54,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171851263,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-54,,true,,25006,511,7,7,null,620,1,302
+1759171851363,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-55,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,305
+1759171851363,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-55,,true,,25006,511,7,7,null,624,0,305
+1759171851464,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-56,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,303
+1759171851463,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-56,,true,,25006,511,7,7,null,619,1,303
+1759171851565,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-57,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,468,0,302
+1759171851564,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-57,,true,,25014,511,7,7,null,468,1,302
+1759171851665,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-58,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,302
+1759171851664,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-58,,true,,25014,511,7,7,null,619,2,302
+1759171851764,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-59,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171851763,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-59,,true,,25006,511,7,7,null,620,1,302
+1759171851863,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-60,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,303
+1759171851863,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-60,,true,,25006,511,7,7,null,622,0,303
+1759171851965,618,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-61,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,618,0,302
+1759171851964,618,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-61,,true,,25006,511,7,7,null,618,1,302
+1759171852065,617,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-62,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,617,0,300
+1759171852063,617,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-62,,true,,25006,511,7,7,null,617,3,300
+1759171852164,838,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-63,text,true,,25006,511,9,9,https://paa.sit.sdlc-quattrus.com/login,837,0,304
+1759171852163,838,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-63,,true,,25006,511,9,9,null,837,1,304
+1759171852263,754,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-64,text,true,,25014,511,8,8,https://paa.sit.sdlc-quattrus.com/login,602,0,302
+1759171852262,754,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-64,,true,,25014,511,8,8,null,602,1,302
+1759171852363,1242,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-65,text,true,,25009,511,13,13,https://paa.sit.sdlc-quattrus.com/login,1092,0,302
+1759171852362,1242,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-65,,true,,25009,511,13,13,null,1092,1,302
+1759171852467,1355,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-66,text,true,,25014,511,14,14,https://paa.sit.sdlc-quattrus.com/login,1202,0,301
+1759171852565,1257,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-67,text,true,,25014,511,14,14,https://paa.sit.sdlc-quattrus.com/login,1105,0,301
+1759171852465,1355,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-66,,true,,25014,511,14,14,null,1202,2,301
+1759171852564,1257,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-67,,true,,25014,511,14,14,null,1105,1,301
+1759171852665,1158,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-68,text,true,,25014,511,12,12,https://paa.sit.sdlc-quattrus.com/login,1005,0,301
+1759171852664,1158,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-68,,true,,25014,511,12,12,null,1005,1,301
+1759171852864,1044,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-70,text,true,,25001,511,12,12,https://paa.sit.sdlc-quattrus.com/login,1044,0,307
+1759171852863,1044,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-70,,true,,25001,511,12,12,null,1044,1,307
+1759171852764,1144,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-69,text,true,,25009,511,12,12,https://paa.sit.sdlc-quattrus.com/login,1144,0,303
+1759171852764,1144,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-69,,true,,25009,511,12,12,null,1144,0,303
+1759171852963,952,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-71,text,true,,25009,511,10,10,https://paa.sit.sdlc-quattrus.com/login,801,0,304
+1759171852962,952,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-71,,true,,25009,511,10,10,null,801,1,304
+1759171853165,840,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-73,text,true,,25009,511,10,10,https://paa.sit.sdlc-quattrus.com/login,690,0,302
+1759171853164,840,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-73,,true,,25009,511,10,10,null,690,1,302
+1759171853064,947,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-72,text,true,,25006,511,9,9,https://paa.sit.sdlc-quattrus.com/login,947,0,303
+1759171853063,947,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-72,,true,,25006,511,9,9,null,947,2,303
+1759171853265,757,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-74,text,true,,25014,511,8,8,https://paa.sit.sdlc-quattrus.com/login,606,0,304
+1759171853264,757,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-74,,true,,25014,511,8,8,null,606,2,304
+1759171853365,744,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-75,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,744,0,303
+1759171853364,744,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-75,,true,,25006,511,8,8,null,744,1,303
+1759171853464,653,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-76,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,653,0,302
+1759171853463,653,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-76,,true,,25001,511,7,7,null,653,1,302
+1759171853565,646,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-77,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,646,0,303
+1759171853565,646,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-77,,true,,25006,511,7,7,null,646,1,303
+1759171853666,640,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-78,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,639,0,301
+1759171853665,640,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-78,,true,,25006,511,7,7,null,639,1,301
+1759171853765,649,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-79,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,649,0,302
+1759171853764,649,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-79,,true,,25009,511,7,7,null,649,1,302
+1759171853864,742,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-80,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,742,0,301
+1759171853863,742,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-80,,true,,25006,511,8,8,null,742,2,301
+1759171853964,653,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-81,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,504,0,302
+1759171853963,653,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-81,,true,,25014,511,7,7,null,504,1,302
+1759171854063,643,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-82,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,643,0,304
+1759171854063,643,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-82,,true,,25006,511,7,7,null,643,1,304
+1759171854164,643,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-83,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,643,0,302
+1759171854163,643,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-83,,true,,25006,511,7,7,null,643,1,302
+1759171854264,845,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-84,text,true,,25006,511,9,9,https://paa.sit.sdlc-quattrus.com/login,845,0,302
+1759171854263,845,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-84,,true,,25006,511,9,9,null,845,1,302
+1759171854364,838,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-85,text,true,,25009,511,9,9,https://paa.sit.sdlc-quattrus.com/login,688,0,303
+1759171854363,838,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-85,,true,,25009,511,9,9,null,688,1,303
+1759171854465,852,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-86,text,true,,25006,511,9,9,https://paa.sit.sdlc-quattrus.com/login,852,0,302
+1759171854464,852,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-86,,true,,25006,511,9,9,null,852,1,302
+1759171854565,941,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-87,text,true,,25014,511,10,10,https://paa.sit.sdlc-quattrus.com/login,790,0,301
+1759171854564,941,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-87,,true,,25014,511,10,10,null,790,1,301
+1759171854665,941,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-88,text,true,,25006,511,10,10,https://paa.sit.sdlc-quattrus.com/login,941,0,300
+1759171854664,941,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-88,,true,,25006,511,10,10,null,941,1,300
+1759171854863,853,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-90,text,true,,25001,511,10,10,https://paa.sit.sdlc-quattrus.com/login,853,0,303
+1759171854764,952,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-89,text,true,,25001,511,10,10,https://paa.sit.sdlc-quattrus.com/login,951,0,302
+1759171854763,952,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-89,,true,,25001,511,10,10,null,951,2,302
+1759171854863,853,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-90,,true,,25001,511,10,10,null,853,1,303
+1759171854963,846,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-91,text,true,,25014,511,9,9,https://paa.sit.sdlc-quattrus.com/login,695,0,302
+1759171854963,846,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-91,,true,,25014,511,9,9,null,695,0,302
+1759171855064,752,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-92,text,true,,25014,511,8,8,https://paa.sit.sdlc-quattrus.com/login,600,0,302
+1759171855063,752,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-92,,true,,25014,511,8,8,null,600,1,302
+1759171855163,659,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-93,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,659,0,304
+1759171855163,659,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-93,,true,,25006,511,7,7,null,659,0,304
+1759171855264,655,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-94,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,655,0,302
+1759171855263,655,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-94,,true,,25006,511,7,7,null,655,1,302
+1759171855364,638,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-95,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,638,0,302
+1759171855364,638,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-95,,true,,25006,511,7,7,null,638,1,302
+1759171855465,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-96,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,302
+1759171855464,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-96,,true,,25006,511,7,7,null,624,1,302
+1759171855565,618,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-97,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,618,0,302
+1759171855564,618,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-97,,true,,25001,511,7,7,null,618,2,302
+1759171855664,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-98,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,473,0,304
+1759171855663,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-98,,true,,25009,511,7,7,null,473,1,304
+1759171855763,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-99,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171855763,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-99,,true,,25006,511,7,7,null,620,0,302
+1759171855863,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-100,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,625,0,305
+1759171855863,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-100,,true,,25006,511,7,7,null,625,1,305
+1759171855963,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-101,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,303
+1759171855963,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-101,,true,,25006,511,7,7,null,622,0,303
+1759171856064,617,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-102,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,617,0,303
+1759171856063,617,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-102,,true,,25006,511,7,7,null,617,1,303
+1759171856164,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-103,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,469,0,302
+1759171856163,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-103,,true,,25014,511,7,7,null,469,2,302
+1759171856265,618,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-104,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,618,0,300
+1759171856264,618,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-104,,true,,25006,511,7,7,null,618,1,300
+1759171856365,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-105,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,301
+1759171856364,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-105,,true,,25006,511,7,7,null,620,2,301
+1759171856465,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-106,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,304
+1759171856464,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-106,,true,,25006,511,7,7,null,623,2,304
+1759171856565,842,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-107,text,true,,25014,511,9,9,https://paa.sit.sdlc-quattrus.com/login,693,0,303
+1759171856565,842,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-107,,true,,25014,511,9,9,null,693,1,303
+1759171856664,859,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-108,text,true,,25014,511,9,9,https://paa.sit.sdlc-quattrus.com/login,709,0,301
+1759171856663,859,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-108,,true,,25014,511,9,9,null,709,2,301
+1759171856765,835,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-109,text,true,,25009,511,9,9,https://paa.sit.sdlc-quattrus.com/login,835,0,303
+1759171856764,835,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-109,,true,,25009,511,9,9,null,835,2,303
+1759171856863,747,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-110,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,747,0,304
+1759171856863,747,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-110,,true,,25006,511,8,8,null,747,1,304
+1759171856964,660,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-111,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,659,0,305
+1759171856963,660,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-111,,true,,25006,511,7,7,null,659,1,305
+1759171857065,652,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-112,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,652,0,306
+1759171857064,652,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-112,,true,,25006,511,7,7,null,652,2,306
+1759171857164,649,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-113,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,648,0,302
+1759171857163,649,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-113,,true,,25006,511,7,7,null,648,2,302
+1759171857265,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-114,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,305
+1759171857264,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-114,,true,,25006,511,7,7,null,623,1,305
+1759171857366,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-115,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,301
+1759171857365,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-115,,true,,25006,511,7,7,null,620,1,301
+1759171857465,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-116,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,303
+1759171857464,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-116,,true,,25006,511,7,7,null,619,2,303
+1759171857564,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-117,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,627,0,307
+1759171857563,627,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-117,,true,,25006,511,7,7,null,627,1,307
+1759171857664,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-118,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,626,0,306
+1759171857664,626,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-118,,true,,25006,511,7,7,null,626,0,306
+1759171857765,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-119,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,304
+1759171857764,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-119,,true,,25006,511,7,7,null,622,2,304
+1759171857866,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-120,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,304
+1759171857865,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-120,,true,,25006,511,7,7,null,623,1,304
+1759171857965,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-121,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,305
+1759171857965,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-121,,true,,25006,511,7,7,null,623,0,305
+1759171858065,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-122,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,302
+1759171858064,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-122,,true,,25006,511,7,7,null,620,2,302
+1759171858164,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-123,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,625,0,305
+1759171858163,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-123,,true,,25006,511,7,7,null,625,2,305
+1759171858265,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-124,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,626,0,306
+1759171858264,626,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-124,,true,,25006,511,7,7,null,626,2,306
+1759171858365,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-125,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,304
+1759171858364,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-125,,true,,25006,511,7,7,null,622,1,304
+1759171858466,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-126,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,305
+1759171858464,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-126,,true,,25006,511,7,7,null,623,3,305
+1759171858565,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-127,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,472,0,304
+1759171858564,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-127,,true,,25014,511,7,7,null,472,2,304
+1759171858665,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-128,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,306
+1759171858663,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-128,,true,,25006,511,7,7,null,623,3,306
+1759171858766,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-129,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,304
+1759171858765,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-129,,true,,25006,511,7,7,null,621,2,304
+1759171858866,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-130,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,306
+1759171858864,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-130,,true,,25006,511,7,7,null,624,2,306
+1759171858966,628,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-131,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,479,0,312
+1759171858965,628,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-131,,true,,25009,511,7,7,null,479,1,312
+1759171859064,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-132,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,625,0,306
+1759171859063,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-132,,true,,25001,511,7,7,null,625,1,306
+1759171859164,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-133,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,302
+1759171859163,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-133,,true,,25006,511,7,7,null,619,1,302
+1759171859264,618,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-134,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,618,0,301
+1759171859263,618,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-134,,true,,25006,511,7,7,null,618,1,301
+1759171859364,617,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-135,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,616,0,301
+1759171859363,617,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-135,,true,,25006,511,7,7,null,616,1,301
+1759171859464,617,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-136,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,617,0,300
+1759171859463,617,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-136,,true,,25006,511,7,7,null,617,1,300
+1759171859564,630,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-137,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,629,0,303
+1759171859563,630,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-137,,true,,25006,511,7,7,null,629,1,303
+1759171859664,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-138,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,303
+1759171859664,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-138,,true,,25006,511,7,7,null,622,0,303
+1759171859765,619,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-139,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,302
+1759171859764,619,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-139,,true,,25006,511,7,7,null,619,2,302
+1759171859865,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-140,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,305
+1759171859864,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-140,,true,,25006,511,7,7,null,620,1,305
+1759171859965,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-141,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,306
+1759171859964,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-141,,true,,25006,511,7,7,null,624,2,306
+1759171860065,638,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-142,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,638,0,306
+1759171860064,638,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-142,,true,,25006,511,7,7,null,638,2,306
+1759171860163,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-143,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,304
+1759171860162,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-143,,true,,25006,511,7,7,null,623,1,304
+1759171860264,630,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-144,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,630,0,308
+1759171860263,630,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-144,,true,,25006,511,7,7,null,630,1,308
+1759171860364,672,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-145,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,522,0,355
+1759171860363,672,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-145,,true,,25014,511,7,7,null,522,2,355
+1759171860465,636,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-146,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,636,0,305
+1759171860463,636,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-146,,true,,25006,511,7,7,null,636,3,305
+1759171860565,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-147,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,625,0,307
+1759171860564,626,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-147,,true,,25006,511,7,7,null,625,1,307
+1759171860666,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-148,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,620,0,301
+1759171860665,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-148,,true,,25006,511,7,7,null,620,2,301
+1759171860764,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-149,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,303
+1759171860763,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-149,,true,,25006,511,7,7,null,619,1,303
+1759171860865,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-150,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,307
+1759171860864,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-150,,true,,25006,511,7,7,null,624,1,307
+1759171860964,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-151,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,305
+1759171860963,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-151,,true,,25006,511,7,7,null,624,2,305
+1759171861064,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-152,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,473,0,304
+1759171861063,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-152,,true,,25014,511,7,7,null,473,2,304
+1759171861164,651,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-153,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,650,0,304
+1759171861163,651,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-153,,true,,25006,511,7,7,null,650,2,304
+1759171861266,655,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-154,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,655,0,304
+1759171861265,655,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-154,,true,,25006,511,7,7,null,655,2,304
+1759171861366,618,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-155,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,618,0,303
+1759171861365,618,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-155,,true,,25006,511,7,7,null,618,2,303
+1759171861464,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-156,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,304
+1759171861464,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-156,,true,,25006,511,7,7,null,621,1,304
+1759171861564,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-157,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,305
+1759171861563,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-157,,true,,25006,511,7,7,null,622,2,305
+1759171861664,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-158,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,475,0,307
+1759171861663,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-158,,true,,25014,511,7,7,null,475,1,307
+1759171861766,630,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-159,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,630,0,311
+1759171861764,630,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-159,,true,,25006,511,7,7,null,630,3,311
+1759171861864,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-160,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,303
+1759171861864,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-160,,true,,25006,511,7,7,null,622,0,303
+1759171861964,652,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-161,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,501,0,305
+1759171861963,652,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-161,,true,,25014,511,7,7,null,501,1,305
+1759171862066,750,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-162,text,true,,25001,511,8,8,https://paa.sit.sdlc-quattrus.com/login,750,0,305
+1759171862065,750,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-162,,true,,25001,511,8,8,null,750,2,305
+1759171862166,755,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-163,text,true,,25014,511,8,8,https://paa.sit.sdlc-quattrus.com/login,604,0,306
+1759171862165,755,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-163,,true,,25014,511,8,8,null,604,1,306
+1759171862264,657,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-164,text,true,,25001,511,8,8,https://paa.sit.sdlc-quattrus.com/login,657,0,307
+1759171862263,657,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-164,,true,,25001,511,8,8,null,657,2,307
+1759171862364,745,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-165,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,745,0,305
+1759171862363,745,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-165,,true,,25006,511,8,8,null,745,1,305
+1759171862463,659,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-166,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,659,0,307
+1759171862462,659,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-166,,true,,25001,511,7,7,null,659,2,307
+1759171862565,656,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-167,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,656,0,305
+1759171862564,656,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-167,,true,,25001,511,7,7,null,656,2,305
+1759171862664,640,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-168,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,491,0,303
+1759171862662,640,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-168,,true,,25014,511,7,7,null,491,3,303
+1759171862765,742,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-169,text,true,,25006,511,8,8,https://paa.sit.sdlc-quattrus.com/login,741,0,306
+1759171862764,742,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-169,,true,,25006,511,8,8,null,741,1,306
+1759171862865,652,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-170,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,651,0,302
+1759171862864,652,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-170,,true,,25006,511,7,7,null,651,1,302
+1759171862965,637,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-171,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,486,0,302
+1759171862964,637,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-171,,true,,25014,511,7,7,null,486,2,302
+1759171863065,648,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-172,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,648,0,301
+1759171863064,648,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-172,,true,,25006,511,7,7,null,648,1,301
+1759171863164,857,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-173,text,true,,25006,511,9,9,https://paa.sit.sdlc-quattrus.com/login,857,0,301
+1759171863264,757,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-174,text,true,,25014,511,9,9,https://paa.sit.sdlc-quattrus.com/login,608,0,305
+1759171863163,857,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-173,,true,,25006,511,9,9,null,857,1,301
+1759171863263,757,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-174,,true,,25014,511,9,9,null,608,1,305
+1759171863364,749,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-175,text,true,,25009,511,8,8,https://paa.sit.sdlc-quattrus.com/login,749,0,305
+1759171863364,749,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-175,,true,,25009,511,8,8,null,749,1,305
+1759171863465,654,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-176,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,654,0,306
+1759171863465,654,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-176,,true,,25001,511,7,7,null,654,1,306
+1759171863566,649,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-177,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,649,0,307
+1759171863565,649,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-177,,true,,25006,511,7,7,null,649,2,307
+1759171863664,625,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-178,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,474,0,306
+1759171863663,625,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-178,,true,,25014,511,7,7,null,474,1,306
+1759171863764,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-179,text,true,,25014,511,7,7,https://paa.sit.sdlc-quattrus.com/login,471,0,305
+1759171863763,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-179,,true,,25014,511,7,7,null,471,1,305
+1759171863864,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-180,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,304
+1759171863863,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-180,,true,,25006,511,7,7,null,624,2,304
+1759171863964,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-181,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,303
+1759171863963,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-181,,true,,25006,511,7,7,null,621,2,303
+1759171864065,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-182,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,305
+1759171864064,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-182,,true,,25006,511,7,7,null,624,1,305
+1759171864164,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-183,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,304
+1759171864163,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-183,,true,,25006,511,7,7,null,623,2,304
+1759171864263,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-184,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,619,0,303
+1759171864263,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-184,,true,,25006,511,7,7,null,619,0,303
+1759171864365,623,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-185,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,623,0,306
+1759171864364,623,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-185,,true,,25006,511,7,7,null,623,2,306
+1759171864466,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-186,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,302
+1759171864464,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-186,,true,,25006,511,7,7,null,621,2,302
+1759171864564,620,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-187,text,true,,25009,511,7,7,https://paa.sit.sdlc-quattrus.com/login,469,0,303
+1759171864564,620,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-187,,true,,25009,511,7,7,null,469,0,303
+1759171864664,626,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-188,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,625,0,305
+1759171864663,626,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-188,,true,,25006,511,7,7,null,625,1,305
+1759171864763,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-189,text,true,,25001,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,304
+1759171864762,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-189,,true,,25001,511,7,7,null,621,1,304
+1759171864863,621,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-190,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,621,0,304
+1759171864862,621,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-190,,true,,25006,511,7,7,null,621,2,304
+1759171864964,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-191,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,302
+1759171864963,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-191,,true,,25006,511,7,7,null,622,1,302
+1759171865063,617,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-192,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,617,0,301
+1759171865063,617,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-192,,true,,25006,511,7,7,null,617,1,301
+1759171865165,624,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-193,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,624,0,306
+1759171865163,624,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-193,,true,,25006,511,7,7,null,624,3,306
+1759171865264,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-194,text,true,,25006,511,7,7,https://paa.sit.sdlc-quattrus.com/login,622,0,302
+1759171865263,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-194,,true,,25006,511,7,7,null,622,1,302
+1759171865365,622,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-195,text,true,,25006,511,6,6,https://paa.sit.sdlc-quattrus.com/login,621,0,303
+1759171865364,622,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-195,,true,,25006,511,6,6,null,621,1,303
+1759171865465,628,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-196,text,true,,25006,511,5,5,https://paa.sit.sdlc-quattrus.com/login,627,0,305
+1759171865464,628,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-196,,true,,25006,511,5,5,null,627,1,305
+1759171865564,628,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-197,text,true,,25009,511,4,4,https://paa.sit.sdlc-quattrus.com/login,471,0,304
+1759171865563,628,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-197,,true,,25009,511,4,4,null,471,2,304
+1759171865664,629,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-198,text,true,,25006,511,3,3,https://paa.sit.sdlc-quattrus.com/login,628,0,305
+1759171865663,629,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-198,,true,,25006,511,3,3,null,628,1,305
+1759171865764,636,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-199,text,true,,25006,511,2,2,https://paa.sit.sdlc-quattrus.com/login,636,0,306
+1759171865763,636,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-199,,true,,25006,511,2,2,null,636,2,306
+1759171865864,627,https://paa.sit.sdlc-quattrus.com/login,200,OK,PAA Estresse 1-200,text,true,,25014,511,1,1,https://paa.sit.sdlc-quattrus.com/login,475,0,306
+1759171865863,627,Test,200,"Number of samples in transaction : 1, number of failing samples : 0",PAA Estresse 1-200,,true,,25014,511,1,1,null,475,1,306
