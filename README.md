@@ -1,14 +1,15 @@
-# Teste de Estresse - PAA (Plano de Ação Anual)
+# Teste de Performance - PAA (Plano de Ação Anual)
 
 Este repositório contém os testes de performance realizados com o Apache JMeter no ambiente de teste (SIT) da aplicação PAA.
 
 ## Ambiente testado
 
-[http://paa.sit.internal-quattrus.com/](http://map.sit.internal-quattrus.com/editor)
+[https://paa.sit.sdlc-quattrus.com/login](https://paa.sit.sdlc-quattrus.com/login)
 
 ## Estrutura do repositório
 
 - `Scripts/` → Contém os arquivos `.jmx` utilizados para simulação de carga e estresse.
+-  Para visualizar o resultados em formato HTTP Report, entrar na pasta de interesse, salvar e abrir o arquivo `index`.
 - `README.md` → Este arquivo de documentação.
 
 ## Objetivo dos testes
@@ -17,7 +18,7 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 
 ## Teste 01
 
-| Cenário                          |         |
+| Cenário                          |                                               |
 | -------------------------------- | --------------------------------------------- |
 | Teste leve com 1 usuário         | `Teste Navegação Simples - Usuário Único`     |
 | Teste de carga moderada (ex: 30) | `Carga Moderada - 30 Usuários`                |
@@ -26,10 +27,17 @@ Avaliar a performance e estabilidade da aplicação Stratega sob diferentes carg
 
 ## Teste 02
 
-| Cenário                          |         |
+| Cenário                          |                                                                    |
 | -------------------------------- | ------------------------------------------------------------------ |
 | Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 60 segundos (1 minuto) `            |
 | Teste de estresse                | `Estresse - 200 Usuários Simultâneos; Ramp-up: 600 (10 minutos)`   |
+
+## Teste 03
+
+| Cenário                          |                                                                    |
+| -------------------------------- | ------------------------------------------------------------------ |
+| Teste de carga                   | `Carga - 50 Usuários; Ramp-up: 10 segundos`                        |
+| Teste de estresse                | `Estresse - 200 Usuários Simultâneos; Ramp-up: 20 segundos`        |
 
 
 ## Ferramentas utilizadas
