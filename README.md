@@ -1,4 +1,4 @@
-# Teste de Desempenho - PAA (Plano de Ação Anual)
+# Teste de Performance - PAA (Plano de Ação Anual)
 
 Este repositório contém os testes de performance realizados com o Apache JMeter no ambiente de teste (SIT) da aplicação PAA.
 
